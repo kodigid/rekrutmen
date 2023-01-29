@@ -1,0 +1,22 @@
+{
+  "name": "rekrutmen",
+  "version": "1.0.0",
+  "description": "kodigid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodigid/rekrutmen.git"
+  },
+  "keywords": [
+    "kodigid"
+  ],
+  "author": "kodigid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodigid/rekrutmen/issues"
+  },
+  "homepage": "https://github.com/kodigid/rekrutmen#readme"
+}
